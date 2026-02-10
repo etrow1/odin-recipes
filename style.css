@@ -1,0 +1,49 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.home-title {
+    background-color: rgba(212, 212, 212, 0.51);
+    padding: 20px;
+    margin-right: 1000px;
+}
+
+.home-ul {
+    padding: 10px;
+    padding-left: 40px;
+}
+
+.home-li {
+    margin: 10px;
+    margin-right: auto;
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+
+li, p {
+    font-size: 18px;
+    padding: 5px;
+}
+
+body {
+    margin-bottom: 100px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.home-button {
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+button {
+    background-color: rgba(52, 125, 184, 0.464);
+    padding: 7px 15px;
+    border: black;
+    border-radius: 5px;
+}
